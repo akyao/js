@@ -1,0 +1,19 @@
+.container {
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  flex-direction: row;
+}
+
+.textDiv {
+  width:180px;
+}
+
+.vals, .bucketSize {
+  width:120px;
+}
+
+.chartDiv {
+  width: 600px;
+  height: 400px;
+  float: left;
+}
